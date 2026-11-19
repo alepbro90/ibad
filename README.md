@@ -1,2 +1,0 @@
-# ibad
-test
